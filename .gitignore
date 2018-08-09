@@ -4,3 +4,6 @@ dist
 build
 MANIFEST
 *.egg-info
+/venv
+/.vscode
+/.pytest_cache
